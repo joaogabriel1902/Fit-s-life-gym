@@ -5,5 +5,5 @@ Which includes :
 
 - CSS:hover selector.
 - CSS:selectors.
-- CSS Flexbox.
+- CSS:Flexbox.
 
